@@ -15,7 +15,7 @@ Automatically creates and configures a complete Spark cluster with:
 
 **Usage:**
 ```bash
-./setup-spark-cluster.sh <LAPTOP_IP>
+./setup-spark-cluster.sh 24.126.95.54
 ```
 
 **Parameters:**
