@@ -66,6 +66,11 @@ Job durations (shown in the histogram) span multiple orders of magnitude, with m
 
 These patterns indicate a highly uneven utilization of clusters, with one cluster handling the majority of workloads.
 
+
+## Screenshot of Spark Web UI showing job execution
+
+![screenshot](screenshot_1.png)
+
 ## Performance observations (execution time, optimizations)
 
 Spark’s distributed computation allows efficient processing of tens of millions of log lines without exceeding memory limits.
